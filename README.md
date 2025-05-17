@@ -1,9 +1,10 @@
 # B17 Class Repository - DevOps Insiders 📚👩‍💻
 
-Welcome to the official repository for B16 at DevOps Insiders! 🚀 Here, you'll find a meticulously organized collection of class notes, assignments, and code snippets generated during our engaging sessions.
+Welcome to the official repository for B17 at DevOps Insiders! 🚀 Here, you'll find a meticulously organized collection of class notes, assignments, and code snippets generated during our engaging sessions.
+
 
 ## 📔 Class Notes
-Explore detailed notes from each B16 class, offering a comprehensive overview of DevOps topics covered. Whether you missed a class or need a quick review, the class notes are your reliable study companion.
+Explore detailed notes from each B17 class, offering a comprehensive overview of DevOps topics covered. Whether you missed a class or need a quick review, the class notes are your reliable study companion.
 
 ## 📝 Assignments
 Access and submit B16 class assignments seamlessly through this repository. Stay on top of your coursework and contribute to a collaborative learning environment by sharing your solutions.
